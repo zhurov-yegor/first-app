@@ -1,5 +1,5 @@
 package com.example.first;
 
-public class UserDto {
+public class UserEntity {
 
 }
